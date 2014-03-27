@@ -4,6 +4,12 @@
 **Build Status**: [![Build Status](https://travis-ci.org/tchap/go-patricia.png?branch=master)](https://travis-ci.org/tchap/go-patricia)<br >
 **Test Coverage**: Comming as soon as Drone.io people update their Go.
 
+## Fork reason ##
+
+As stated in the original documentation below, the API has a goodly chance to change and that made me fork this.
+
+Trie's are awesome :)
+
 ## About ##
 
 A generic patricia trie (also called radix tree) implemented in Go (Golang).
